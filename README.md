@@ -14,7 +14,7 @@ $ npm run dev
 Open http://localhost:5173
 
 ## Screenshot
-![Todo list](/react-todo/screenshot/screenshot.png?raw=true "Todo list screenshot")
+![Todo list](https://github.com/MAEchevarria/react-todo/raw/master/screenshot/screenshot.png)
 
 ## Technologies used
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
