@@ -1,4 +1,16 @@
-# React Todo
+# React Todo App
+The goal in making this application was to make a todo app using React. A user can create, complete, and delete tasks.
+
+## Installation
+```
+$ git clone https://github.com/MAEchevarria/react-todo.git
+$ cd react-todo
+```
+Install dependencies and start server
+```
+$ npm install
+$ npm run dev
+```
 
 ## Technologies used
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
