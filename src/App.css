@@ -1,0 +1,25 @@
+.content {
+    min-width: 100vw;
+    min-height: 100vh;
+    padding-top: 10px;
+    text-align: center;
+    background-size: contain;
+    background-color: #00a2ed;
+}
+
+/* .my-form {
+    max-width: 500px;
+}
+
+.my-list {
+    max-width: 500px;
+} */
+
+.card {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 1em;
+    padding: 1em;
+    box-shadow: 2px 2px 5px rgb(0, 0, 0);
+    border-radius: 30px;
+  }
