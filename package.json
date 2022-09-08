@@ -1,7 +1,7 @@
 {
   "name": "react-todo",
   "private": true,
-  "homepage": "https://github.com/MAEchevarria.github.io/react-todo",
+  "homepage": "https://MAEchevarria.github.io/react-todo",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
